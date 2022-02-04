@@ -1,7 +1,3 @@
-## NAME_OF_YOUR_APP_HERE
-
-### App Description
-`TODO://` Add app description
 
 ### App Walk-though
 ![](https://i.imgur.com/3ScJXD2.gif)
